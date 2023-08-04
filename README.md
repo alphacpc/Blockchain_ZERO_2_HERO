@@ -171,3 +171,9 @@ Le hash d'un fichier est une empreinte numérique de ce fichier. Techniquement, 
 * Une fois sur la Blockchain, impossible de modifier ou supprimer le contrat
 * Il est accessible sur tous les noeuds à jour
 * Pour interagir avec le contrat, il faut une machine virtuelle qui interprète le bytecode
+
+
+<br>
+
+* Pour lancer le serveur ganache, il faut executer la commande : **ganache** après l'avoir installé
+* Une option existe pou interragir avec **truffle** qui est **truffle develop** en CLI
